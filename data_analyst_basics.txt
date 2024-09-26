@@ -1,0 +1,71 @@
+
+types of variables:
+------------------
+1. Categorical
+2. Numerical
+
+Categorical varibles:
+--------------------
+Varabiles which can be grouped based on it's category
+ex: gender, marriage status, colors etc
+
+Numerical variables:
+--------------------
+1. Descrete
+2. Continuous
+
+Descrete Variables:
+-------------------
+Variables which can be counted as integers.
+ex: no.of childrens, no.of bugs etc.
+
+Continuous Variables:
+---------------------
+Variables which can be counted as float numbers.
+ex: weight, time etc.
+
+
+
+Levels of data measurement:
+---------------------------
+1. Nominal
+2. Ordinal
+3. Interval
+4. Ratio
+
+Nominal Data:
+-------------
+Nominal data which can be distinct categories and no ranking implied. No arithematic operation.
+ex: gender, marriage status, colors etc.
+
+Ordinal Data:
+------------
+Ordinal data which can be distinct categories and ranking implied. No arithematic operation.
+ex: customer satisfaction(good, average, poor, verypoor), Student grades etc
+
+Interval Data:
+-------------
+Interval Data where difference between measurements is meaningfull quanity but don't have true zero point. Addition and substraction can be done
+ex: temperature(at 0 temperature also some heat will be there)
+
+Ratio Data:
+----------
+Ratio data where difference between measurements is meaningfull quantity and have true zero point. All arithematic operations can be done.
+Ex: age, weight 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
